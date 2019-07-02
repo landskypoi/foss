@@ -20,6 +20,9 @@
 * postgreSQL / postGIS
 * GeoServer
 
+### 3일차
+* Qgis
+* Pytlhon
 
 
 
